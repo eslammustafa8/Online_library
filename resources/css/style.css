@@ -1,0 +1,19 @@
+body {
+    background-color: #000; /* خلفية سوداء */
+    color: #fff; /* نصوص بيضاء */
+}
+
+.card {
+    background-color: #1c1c1c; /* لون غامق للبطاقة */
+    border: none; /* بدون إطار */
+    border-radius: 10px;
+}
+
+.btn-warning {
+    color: #000; /* لون النص */
+    font-weight: bold;
+}
+
+.btn-warning:hover {
+    background-color: #e69500;
+}
